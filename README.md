@@ -83,20 +83,18 @@ title("Random Data");
 
 xgrid();
 
-GRAPH:
+## TABULATION
+<img width="1161" height="1600" alt="image" src="https://github.com/user-attachments/assets/f5426c3f-f20e-498f-8344-fb2ceb09c1f4" />
 
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/ef061334-e730-4028-a46e-a37f0eb80e3e" />
+## CALCULATION
+<img width="772" height="1395" alt="image" src="https://github.com/user-attachments/assets/27679045-8597-4d44-9c9b-041171736c53" />
+<img width="1600" height="1168" alt="image" src="https://github.com/user-attachments/assets/4072b6ea-0d50-4699-bcc4-b8bd55ec3a93" />
 
+## OUTPUT
+<img width="663" height="589" alt="image" src="https://github.com/user-attachments/assets/84da714f-0610-4f91-856b-d6fa58bea7f6" />
 
-
-CALCULATION:
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d60ae4cb-397f-4523-baad-db29c31cec0a" />
-
-
-
-
-RESULT: Thus the mean , variance and cross correlation are executed in Scilab and output is verified. 
-
+## RESULT
+Thus the mean and variance are executed in Scilab and output is verified.
 
 
 
